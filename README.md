@@ -62,11 +62,11 @@ Primary topic: **digital platform testing**.
 
 Related search phrases: QA digital platforms; enterprise platform testing; testing digital products; digital product quality. These are editorial keyword hypotheses, not measured search-volume claims.
 
-Suggested GitHub topics: `quality-assurance`, `software-testing`, `digital-platforms`, `enterprise-software`, `sap`, `servicenow`, `salesforce`, `dynamics-365`, `ai-testing`, `performance-testing`. Use only topics describing the actual content. Repository description and topics are provided in [github-metadata.json](github-metadata.json); nothing has been applied on GitHub.
+Suggested GitHub topics: `quality-assurance`, `software-testing`, `digital-platforms`, `enterprise-software`, `sap`, `servicenow`, `salesforce`, `dynamics-365`, `ai-testing`, `performance-testing`. Use only topics describing the actual content. Repository description and topics are provided in [github-metadata.json](github-metadata.json); description and topics are configured on the private GitHub repository.
 
 ## Publication status
 
-**Local preparation only.** Public contact, domain, legal holder, final rights and hosting notice need approval. Draft pages use `noindex, nofollow` and robots exclusion. Final configuration creates canonical URLs, social metadata, structured data, robots and sitemap; it does not deploy anything. See [PUBLISHING.md](PUBLISHING.md). Use an approved hosting destination for the commercial landing site; review GitHub Pages usage limits.
+**Private GitHub preparation.** Repository: [digital-platform-testing-guide](https://github.com/mr-jonam/digital-platform-testing-guide). Public visibility and a website deployment have not been enabled. Public contact, domain, legal holder, final rights and hosting notice need approval. Draft pages use `noindex, nofollow` and robots exclusion. Final configuration creates canonical URLs, social metadata, structured data, robots and sitemap; it does not deploy anything. See [PUBLISHING.md](PUBLISHING.md). Use an approved hosting destination for the commercial landing site; review GitHub Pages usage limits.
 
 ## Sources and attribution
 
