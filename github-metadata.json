@@ -1,0 +1,22 @@
+{
+  "name": "digital-platform-testing-guide",
+  "description": "A buyer-oriented guide to QA and testing for SAP, ServiceNow, Salesforce, Dynamics 365, AI features and digital platforms.",
+  "topics": [
+    "quality-assurance",
+    "software-testing",
+    "digital-platforms",
+    "enterprise-software",
+    "sap",
+    "servicenow",
+    "salesforce",
+    "dynamics-365",
+    "ai-testing",
+    "performance-testing"
+  ],
+  "visibility": "private-until-approved",
+  "has_issues": false,
+  "has_wiki": false,
+  "funding": "not-enabled",
+  "homepage": null,
+  "notes": "Proposed metadata only; no GitHub repository created. Replace homepage only with an approved URL."
+}

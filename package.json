@@ -1,0 +1,14 @@
+{
+  "name": "digital-platform-testing-guide",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A buyer-oriented guide to QA and testing for SAP, ServiceNow, Salesforce, Dynamics 365, AI features and digital platforms.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "preview": "node scripts/serve.mjs",
+    "configure": "node scripts/configure.mjs"
+  },
+  "license": "UNLICENSED"
+}
