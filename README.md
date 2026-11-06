@@ -6,6 +6,14 @@ A buyer-oriented guide to QA and testing for SAP, ServiceNow, Salesforce, Dynami
 
 **Decision in focus:** Which assurance question should be clarified before choosing a test approach or asking for a proposal?
 
+## See a first result
+
+**Problem:** A change crosses several platforms and the team is unsure which evidence question to start with.
+
+**Example result:** Ask who owns acceptance across the portal-to-ERP boundary.
+
+[Walk through the fictional example](examples/FIRST-RESULT.md), then [read the decision guide](GUIDE.md). Both open directly on GitHub, without installation or a contact request. The result is a question for the accountable owner; it is not a finding about a real system.
+
 <!-- publication:links:start -->
 [Read the guide on GitHub](GUIDE.md) · [Browse all eight guides](https://github.com/mr-jonam/digital-platform-testing-guide/blob/master/REPOSITORIES.md) · [Discuss professional support](https://www.linkedin.com/in/manoj-rollo/)
 
@@ -22,7 +30,11 @@ A buyer-oriented guide to QA and testing for SAP, ServiceNow, Salesforce, Dynami
 
 Open `docs/index.html` in a browser or use the local preview:
 
+Download the repository, or clone it and start the optional local preview:
+
 ```sh
+git clone https://github.com/mr-jonam/digital-platform-testing-guide.git
+cd digital-platform-testing-guide
 npm run preview
 ```
 
@@ -81,6 +93,12 @@ Suggested GitHub topics: `quality-assurance`, `software-testing`, `digital-platf
 - [W3C WAI — Evaluating Web Accessibility](https://www.w3.org/WAI/test-evaluate/)
 
 Read [SOURCES.md](SOURCES.md) for verification status. References are linked, not republished. Product names identify subject matter; no vendor affiliation, endorsement, logo or partner status is claimed.
+
+## Corrections and future updates
+
+For a broken reference or unclear passage, follow [editorial feedback guidance](CONTRIBUTING.md). Include the page, the confusing sentence and a public source where relevant. External contributions are currently closed.
+
+For future public QA resources, follow [mr-jonam on GitHub](https://github.com/mr-jonam) using the profile's Follow button. Updates appear when material is reviewed; no release schedule is promised.
 
 ## Licence and provenance
 
